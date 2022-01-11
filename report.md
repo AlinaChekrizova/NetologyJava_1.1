@@ -7,7 +7,7 @@
 На тестирование затрачено: 0,5 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/AlinaChekrizova/NetologyJava_1.1/issues/1#issue-998522850
+* [Некорректный расчет итогового баланса счета после его пополнения](https://github.com/AlinaChekrizova/NetologyJava_1.1/issues/1#issue-998522850)
 
 
 ## Описание процесса тестирования
